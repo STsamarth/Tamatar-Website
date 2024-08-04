@@ -1,0 +1,27 @@
+body {
+    background-color: #FFF1DB;
+}
+
+div {
+    background-color: #EF5A6F;
+    text-align: center;
+    border: 5px solid #D4BDAC;
+}
+
+h1 {
+    font-size: 100px;
+    color: #FFFFFF;
+    font-family: Arial;
+}
+
+h3 {
+    color: #536493;
+    text-align: center;
+    font-family: Times New Roman;
+}
+
+h4 {
+    color: #D4BDAC;
+    text-align: center;
+    font-family: Times New Roman;
+}
